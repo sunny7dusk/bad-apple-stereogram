@@ -1,3 +1,8 @@
+# dont put output files into git
+assets/output/*
+assets/step_1_frames/*
+assets/step_2_frames/*
+
 # Logs
 logs
 *.log

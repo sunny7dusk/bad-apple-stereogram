@@ -1,0 +1,20 @@
+{
+  "name": "bad_apple_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "sharp": "^0.33.5"
+  }
+}
